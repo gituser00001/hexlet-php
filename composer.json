@@ -1,5 +1,7 @@
 {
     "name": "sal/example",
     "description": "example package",
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.83"
+    }
 }
