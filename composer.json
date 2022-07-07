@@ -1,6 +1,11 @@
 {
     "name": "sal/example",
     "description": "example package",
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
     "require": {
         "tightenco/collect": "^8.83"
     }
